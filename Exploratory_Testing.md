@@ -8,3 +8,14 @@
 Observations:
 - Application handles most cases correctly
 - Error messages are clear and visible
+-------------------------------------------------------
+
+## Disappearing Elements – Exploratory Testing
+
+Observations:
+- Navigation menu item (Gallery) appear and disappear randomly on page reload
+- The behavior changes with each refresh
+- No error messages are displayed
+
+Conclusion:
+This behavior is expected and intentionally implemented to demonstrate dynamic UI behavior.
